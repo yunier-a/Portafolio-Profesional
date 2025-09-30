@@ -1,0 +1,7 @@
+# Inicializa git y sube a GitHub
+git init
+git add .
+git commit -m "Portafolio Yunier Montoya"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/portfolio-yunier.git
+git push -u origin main
